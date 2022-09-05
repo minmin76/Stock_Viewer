@@ -7,7 +7,7 @@ import streamlit as st
 st.title('LIXIL vs Competitor Stock Viewer')
 
 st.sidebar.write("""
-# 製造業売上高Top10 株価
+# 住宅設備売上高Top10 株価
 以下のオプションから表示日数を指定してください。
 """)
 
